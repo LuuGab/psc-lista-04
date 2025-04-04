@@ -1,1 +1,1 @@
-# psc-lista-04
+Repositório Dedicado a fins Acadêmicos.
