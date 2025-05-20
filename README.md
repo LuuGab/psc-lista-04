@@ -1,1 +1,1 @@
-Repositório Dedicado a fins Acadêmicos.
+Repositório Dedicado a Práticas da Unidade Curricular Programação & Soluções Computacionais.
